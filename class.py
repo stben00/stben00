@@ -9,7 +9,7 @@ class House():
     def build(self):    
     ### Сторить Дом " 
 
-     print("Дом на улеце" + self.street, "под номером" + str(self.number) + "построен")
+     print("Дом на улеце" + self.street, "под  номером" + str(self.number) + "построен")
           
 House1 = House("Овражная", 31)
 House2 = House("Логвиненко", 7)
